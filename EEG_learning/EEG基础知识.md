@@ -4,7 +4,6 @@ _**定义：**_
 ---
 
 ## 1. 脑区功能分布 
-![img.png](img.png)
 - 额叶（负责思维，计划和中央执行职能以及运动执行）
 - 顶叶（负责体感知觉，视觉和体空间信息的整合）
 - 颞叶（主要负责语言功能和听觉感知，参与长期记忆和情感）
@@ -12,7 +11,6 @@ _**定义：**_
 
 ---
 ## 2. EEG波段
-![img_3.png](img_3.png)
 - Delta波（0.5-4 HZ）
 - Theta波（4-8   HZ）
 - Alpha波（8-13  HZ）
@@ -22,7 +20,6 @@ _**定义：**_
 
 ---
 ## 3. 通道分布
-![img_1.png](img_1.png)
 - F：额叶（Frontal lobe）
 - Fp：前额叶（Frontal poles）
 - T：颞叶（Temporal lobes）
@@ -45,5 +42,6 @@ _**定义：**_
 ## 其他相关链接
 - https://zhuanlan.zhihu.com/p/15102370282
 - https://zhuanlan.zhihu.com/p/467339680
+
 
 
